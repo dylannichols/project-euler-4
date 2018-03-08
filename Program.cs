@@ -10,14 +10,19 @@ namespace project_euler_4
         {
             var num1 = 0;
             var num2 = 0;
+            var palindrome = 0;
             for (var i = 100; i < 1000; i++)
             {
                 for (var j = 100; j < 1000; j++)
                 {
                     if (CheckPalindrome(BuildList(i, j)))
                     {
-                        num1 = i;
-                        num2 = j;
+                        if ((i * j) > palindrome)
+                        {
+                            palindrome = i * j;
+                            num1 = i;
+                            num2 = j;
+                        }
                     }
                 }
             }
