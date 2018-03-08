@@ -1,0 +1,10 @@
+/home/dylan/Documents/Programming/project-euler/project-euler-4/bin/Debug/netcoreapp2.0/project-euler-4.deps.json
+/home/dylan/Documents/Programming/project-euler/project-euler-4/bin/Debug/netcoreapp2.0/project-euler-4.runtimeconfig.json
+/home/dylan/Documents/Programming/project-euler/project-euler-4/bin/Debug/netcoreapp2.0/project-euler-4.runtimeconfig.dev.json
+/home/dylan/Documents/Programming/project-euler/project-euler-4/bin/Debug/netcoreapp2.0/project-euler-4.dll
+/home/dylan/Documents/Programming/project-euler/project-euler-4/bin/Debug/netcoreapp2.0/project-euler-4.pdb
+/home/dylan/Documents/Programming/project-euler/project-euler-4/obj/Debug/netcoreapp2.0/project-euler-4.csproj.CoreCompileInputs.cache
+/home/dylan/Documents/Programming/project-euler/project-euler-4/obj/Debug/netcoreapp2.0/project-euler-4.AssemblyInfoInputs.cache
+/home/dylan/Documents/Programming/project-euler/project-euler-4/obj/Debug/netcoreapp2.0/project-euler-4.AssemblyInfo.cs
+/home/dylan/Documents/Programming/project-euler/project-euler-4/obj/Debug/netcoreapp2.0/project-euler-4.dll
+/home/dylan/Documents/Programming/project-euler/project-euler-4/obj/Debug/netcoreapp2.0/project-euler-4.pdb
